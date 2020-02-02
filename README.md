@@ -33,3 +33,6 @@ Restart Audacious and enable it in settings panel.
 This was an amateur project when I was at school years ago.
 
 Recently I found this code folder in a bunch of old files, and decided to make it live again.
+
+### Screenshot
+![image](https://user-images.githubusercontent.com/34613827/73605778-78808900-45dd-11ea-9b07-098a0e6fd87d.png)
